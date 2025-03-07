@@ -1,2 +1,2 @@
 print("Example for git")
-print("added changes")
+print("added")
